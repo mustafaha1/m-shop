@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-image: url(img/disney.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+button span {
+    /*overwriting*/
+    color: white;
+    font-size: 25px;
+}
+h1, h3 {
+    color: #ffff;
+}
+
+img{
+    height: 255px;
+}
+
+.card {
+    height: 520px;
+    background: red;
+    
+}
