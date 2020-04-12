@@ -22,10 +22,10 @@ img{
     height: 255px;
 }
 
-img:hover {
+/* img:hover {
     height: 455px;
 
-}
+} */
 
 .card {
     height: 640px;
