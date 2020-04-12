@@ -22,8 +22,16 @@ img{
     height: 255px;
 }
 
+img:hover {
+    height: 455px;
+
+}
+
 .card {
-    height: 520px;
+    height: 640px;
     background: red;
     
 }
+ /* this is where the payment css starts */
+
+ 
